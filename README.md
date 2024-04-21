@@ -1,23 +1,24 @@
-# NextGenX-Projects
-Projects done by NextGenX. Let us elevate in the tech world!
+NextGenX Projects
+Welcome to NextGenX, where innovation meets passion. Our team of experienced professionals is dedicated to driving technological advancements and contributing to the open-source community.
 
-All Projects are private. Please request if you want to work on a project with us or want more info on one of our project. 
+Private Projects
+Our projects are currently private, but we invite you to collaborate with us. If you're interested in working on a project or learning more about our initiatives, please don't hesitate to reach out.
 
-Want to join our team? 
-  - Our team is comprised of 5 memebers and we would love to grow. Send your resume to info@nextgenx.io to get started.
-  - We are team of CS and tech specailist building and working on new projects and trying to be part of help the open source community.
-  - Work with us, grow in your field, and carry our your passion. Join the NextGenX Team.
+Join Our Team
+We're a dynamic team of 5 members and are eager to expand. If you're a motivated individual with a passion for technology, send your resume to  to explore opportunities.
 
-So what projects are we wroking on?
- - Working with Ma_satarka_chu, LetPlaySportz.com in Nepal to build tech driven economy.
- - Digital awareness towards digital fraud. Data analysis tool to generate stats for digital frauds with given conditions. (Next Patch, we are driving to towards an abstract anaylsis tool that computes data working around conditions and conflicts). Using calcuations defined by users to compile through datas and give desired results.
- - Multiple projects wokring with TypeOrm, working with data soruce using typeORM to build API for applications (Using NodeJs, React, React-native, Typescript and other related framework).
- - Multiple projects using NextJs and Astro to build frontend/UI for purposes of Web development for static CMS.
- - Using combinations of TypeOrm, Redis, SQL, Postgres and Railway to develop databases and migration, creating an abstraction for any application we may develop in the future.
- - Using Python to create crawlers and CRUD functionalities for any desired data collection and finding different way to analyze these datas (look at our 2nd project).
- - PardesiDrip: Our first e-commerce application using abstraction from above to bring a full end to end services to south asain designers and bootiques. As well as stunning frontend for users and our goal is to create a mainstream e-commerce that brings south asian culture together and provides awareness for our festivals, religion and culture. Releasing July.
- - Solo-leveling: Inspired by Manga, developing a self help/mental health app that work with pattern and behaviour setting while keeping users engaged.
+Current Projects:
+  - Ma_satarka_chu & (link unavailable): Collaborating to develop a tech-driven economy in Nepal.
+  - Digital Fraud Awareness: Creating a data analysis tool to generate statistics on digital fraud, with a future goal of developing an abstract analysis tool.
+  - TypeOrm & Data Source: Building APIs for applications using NodeJs, React, React-native, and Typescript.
+  - NextJs & Astro: Developing frontend/UI for static CMS web development.
+  - Database Development: Utilizing TypeOrm, Redis, SQL, Postgres, and Railway to create databases and migrations for future applications.
+  - Python Crawlers & CRUD: Developing crawlers and CRUD functionalities for data collection and analysis.
+  - PardesiDrip: Our e-commerce application, launching in July, aimed at bringing South Asian designers and boutiques together.
+  - Solo-leveling: A self-help/mental health app inspired by Manga, focusing on pattern and behavior setting.
 
-We plan on working with more projects and releasing more products out there. Let's stay passionate, keep growing and let's trying to make a difference in the world. A positve impact in society as this is our ultimate goal with NextGenX. 
-Let us know if you are intrested in any of these projects and join our team!
+Our Mission
+At NextGenX, we strive to make a positive impact in society through technology. We're committed to innovation, growth, and collaboration. If you share our passion, let's work together to make a difference.
 
+Get in Touch
+If you're interested in any of our projects or would like to join our team, please don't hesitate to reach out. Let's elevate the tech world together!

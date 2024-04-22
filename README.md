@@ -9,7 +9,7 @@ Join Our Team
 We're a dynamic team of 5 members and are eager to expand. If you're a motivated individual with a passion for technology, send your resume to  to explore opportunities.
 
 Current Projects:
-  - Ma_satarka_chu & (link unavailable): Collaborating to develop a tech-driven economy in Nepal.
+  - Ma_satarka_chu: Collaborating to develop a tech-driven economy in Nepal.
   - Digital Fraud Awareness: Creating a data analysis tool to generate statistics on digital fraud, with a future goal of developing an abstract analysis tool.
   - TypeOrm & Data Source: Building APIs for applications using NodeJs, React, React-native, and Typescript.
   - NextJs & Astro: Developing frontend/UI for static CMS web development.
